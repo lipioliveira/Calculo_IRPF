@@ -1,2 +1,2 @@
 # python
-projetos em Python
+Programa para cálculo de imposto de renda
